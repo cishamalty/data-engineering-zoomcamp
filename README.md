@@ -80,6 +80,7 @@ can take the course at your own pace
 * Normalising data
 * Incremental loading
 * Homework
+* SURE!
 
 
 [More details](cohorts/2024/workshops/dlt.md)
